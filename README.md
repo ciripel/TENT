@@ -6,7 +6,7 @@ TENT
 ![]()
 
 What is TENT?
----
+----
 TENT(https://tent.app/) is an implementation of the "Zerocash" protocol.
 Based on Bitcoin's code, it intends to offer a far higher standard of privacy
 through a sophisticated zero-knowledge proving scheme that preserves
